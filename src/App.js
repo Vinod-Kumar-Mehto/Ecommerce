@@ -10,6 +10,7 @@ function App() {
     <>
       <Header />
       <Routes>
+        <Route path="/Ecommerce" element={<Cards />} />
         <Route path="/" element={<Cards />} />
         <Route path="/cart/:id" element={<CardsDetail />} />
       </Routes>

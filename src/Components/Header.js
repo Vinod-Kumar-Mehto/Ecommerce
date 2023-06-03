@@ -186,7 +186,7 @@ function Header() {
             ></i>
             <p style={{ fontSize: 22 }}>Your cart is empty</p>
             <img
-              src="./cart.gif"
+              src="./Images/cart.gif"
               alt=""
               className="emptycart_img"
               style={{ width: "5rem", padding: 10 }}
